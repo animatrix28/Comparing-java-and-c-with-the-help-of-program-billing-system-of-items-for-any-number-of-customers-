@@ -1,0 +1,10 @@
+1,Brocolli
+2,Cabbage
+3,Onion
+4,Potato
+5,Tomato
+6,Oranges
+7,Banana
+8,Apple
+9,Watermelon
+10,Avacado

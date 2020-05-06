@@ -1,0 +1,10 @@
+1,Television
+2,Camera
+3,Mobile
+4,Earphone
+5,Laptop
+6,Monitor
+7,Charger
+8,Washing Machine
+9,Headphone
+10,Fan

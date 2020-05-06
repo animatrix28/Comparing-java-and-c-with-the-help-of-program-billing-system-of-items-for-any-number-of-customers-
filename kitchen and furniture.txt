@@ -1,0 +1,10 @@
+1,Knife
+2,Chopping Board
+3,Pan
+4,Cooker
+5,Dinning Table
+6,Chairs
+7,Sofa
+8,Scissors
+9,Study Table
+10,Wall Clock

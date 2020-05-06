@@ -1,0 +1,10 @@
+1,Lipstick
+2,AXE Deo
+3,Body Lotion
+4,Handwash
+5,Cinthol Soap
+6,Eyelashes
+7,Hair Oil
+8,Room Freshner
+9,Face Wash
+10,Vaseline

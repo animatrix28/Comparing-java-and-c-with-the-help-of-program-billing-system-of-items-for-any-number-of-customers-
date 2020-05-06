@@ -1,0 +1,10 @@
+1,Shirt
+2,T-Shirt
+3,Formal Pants
+4,Jeans
+5,Jacket
+6,Underwear
+7,Bra
+8,Innerwear
+9,Sweatshirt
+10,Trousers
